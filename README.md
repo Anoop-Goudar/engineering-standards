@@ -7,6 +7,12 @@ context file that AI coding agents actually read on every turn.
 
 - **[AGENTS.template.md](AGENTS.template.md)** — the template. Copy it into a new
   repo, delete the stack modules you don't need, fill in the project brief.
+- **[AI-ARCHITECTURE-PLAYBOOK.md](AI-ARCHITECTURE-PLAYBOOK.md)** — the method for
+  architecting a production AI application *before* implementation: six phases
+  (Understand → Decompose → Design AI → Design Production System → Validate →
+  Implement), decision gates, and a reusable architecture canvas. Read on
+  demand, not injected into context — its output belongs in a project's
+  `docs/ARCHITECTURE.md`.
 
 ## Using it in a new repo
 
